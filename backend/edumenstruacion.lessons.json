@@ -1,0 +1,280 @@
+[{
+  "_id": {
+    "$oid": "68bb8435410f6c5df5ec92c4"
+  },
+  "titulo": "¿Qué es la menstruación?",
+  "categoria": "Conceptos básicos",
+  "resumen": "Explicación breve sobre qué es y por qué ocurre.",
+  "contenido": "La menstruación es un proceso fisiológico natural que forma parte del ciclo menstrual femenino. Consiste en la expulsión mensual de sangre y tejido del revestimiento del útero a través de la vagina, señalando el fin de un ciclo reproductivo en ausencia de embarazo. Este proceso es fundamental para la salud reproductiva y se inicia con la menarquia, la primera menstruación, alrededor de los 12 años, y finaliza con la menopausia, generalmente entre los 45 y 55 años.",
+  "imagen": "/imagenesLecciones/Qué es la menstruación.png"
+},
+{
+  "_id": {
+    "$oid": "68bb8450410f6c5df5ec92ca"
+  },
+  "titulo": "Actividad física",
+  "categoria": "Salud",
+  "resumen": "Ejercicios recomendados durante el ciclo menstrual.",
+  "contenido": "Ejercicios suaves como caminar, practicar yoga, estiramientos o nadar pueden ayudar a reducir los cólicos menstruales, mejorar la circulación sanguínea y aliviar la tensión muscular. Además, estas actividades fomentan la liberación de endorfinas, conocidas como las “hormonas de la felicidad”, lo que contribuye a mejorar el estado de ánimo, disminuir el estrés y la ansiedad durante la menstruación. Mantenerse activa también puede ayudar a regular el ciclo menstrual y a disminuir la fatiga, favoreciendo un bienestar general tanto físico como emocional.",
+  "imagen": "/imagenesLecciones/Actividad física.png"
+},
+{
+  "_id": {
+    "$oid": "68bb8456410f6c5df5ec92cc"
+  },
+  "titulo": "Mitos sobre la menstruación",
+  "categoria": "Conceptos básicos",
+  "resumen": "Desmentir creencias erróneas comunes.",
+  "contenido": "La menstruación no es sucia ni algo que deba avergonzar. Es un proceso natural del cuerpo femenino que forma parte del ciclo reproductivo. A lo largo del tiempo, han existido muchos mitos y creencias erróneas sobre la menstruación, como que cocinar mayonesa durante el periodo hace que se corte, que bañarse durante la menstruación es malo, o que las mujeres no pueden hacer ejercicio. Ninguno de estos mitos tiene base científica. De hecho, las mujeres pueden realizar todas sus actividades normales, como estudiar, trabajar, hacer deporte o cocinar, sin que la menstruación interfiera en su vida diaria. Conocer la verdad sobre estos mitos ayuda a reducir tabúes y a promover una actitud saludable y natural hacia la menstruación.",
+  "imagen": "/imagenesLecciones/Mitos sobre la menstruación.png"
+},
+{
+  "_id": {
+    "$oid": "68bba9ea410f6c5df5ec92dd"
+  },
+  "titulo": "La menstruación es el sangrado mensual del útero",
+  "categoria": "Conceptos básicos",
+  "resumen": "Explica qué es la menstruación y su función natural.",
+  "contenido": "La menstruación es el sangrado mensual del útero en personas con ciclo menstrual. Este proceso forma parte del ciclo menstrual, que prepara al cuerpo para un posible embarazo. Durante la menstruación, se expulsa sangre y tejido del revestimiento interno del útero a través de la vagina. Generalmente ocurre cada 28 días, aunque puede variar entre 21 y 35 días según cada persona. La duración promedio del sangrado es de 3 a 7 días, y puede ir acompañada de síntomas como cólicos, cambios de humor, fatiga y sensibilidad en los senos. La menstruación es un indicador importante de la salud reproductiva y puede verse afectada por factores como el estrés, la alimentación, la actividad física o alteraciones hormonales.",
+  "imagen": "/imagenesLecciones/La menstruación es el sangrado mensual del útero.png"
+},
+{
+  "_id": {
+    "$oid": "68bbaa14410f6c5df5ec92df"
+  },
+  "titulo": "Ocurre cuando no hay fecundación",
+  "categoria": "Conceptos básicos",
+  "resumen": "Describe por qué ocurre la menstruación cada mes.",
+  "contenido": "Si no ocurre la fecundación del óvulo, el endometrio, que es el revestimiento interno del útero, se desprende y se expulsa a través de la vagina, causando el sangrado menstrual. Este proceso es parte natural del ciclo menstrual y permite que el útero se renueve cada mes, preparándose para un posible embarazo en el siguiente ciclo. La cantidad de sangrado puede variar según la persona, y durante este tiempo pueden aparecer síntomas como cólicos, cambios de humor, cansancio y sensibilidad en los senos. Este fenómeno demuestra el funcionamiento saludable del sistema reproductivo femenino y es un indicador importante de la salud hormonal.",
+  "imagen": "/imagenesLecciones/Ocurre cuando no hay fecundación.png"
+},
+{
+  "_id": {
+    "$oid": "68bbab3d410f6c5df5ec92e5"
+  },
+  "titulo": "Edad promedio de inicio",
+  "categoria": "Conceptos básicos",
+  "resumen": "Edad típica en la que comienza la menstruación.",
+  "contenido": "La menstruación suele comenzar entre los 11 y 14 años, aunque este rango puede variar según la genética, la alimentación, la salud y otros factores. En algunos casos, puede aparecer antes, alrededor de los 9 o 10 años, lo que se conoce como menarquia temprana, o más tarde, hasta los 16 años, considerada menarquia tardía. La primera menstruación marca el inicio de la capacidad reproductiva y viene acompañada de cambios físicos y hormonales en el cuerpo, como el desarrollo de los senos, el crecimiento del vello corporal y cambios en la forma del cuerpo. Conocer estas variaciones ayuda a entender que cada persona tiene un desarrollo diferente y que todas estas experiencias son normales.",
+  "imagen": "/imagenesLecciones/Edad promedio de inicio.png"
+},
+{
+  "_id": {
+    "$oid": "68bbabaa410f6c5df5ec92eb"
+  },
+  "titulo": "Flujo menstrual y variaciones",
+  "categoria": "Conceptos básicos",
+  "resumen": "Explica cómo puede variar el flujo.",
+  "contenido": "El flujo menstrual puede ser ligero, moderado o abundante, y esto puede variar entre personas e incluso entre ciclos de la misma persona. Un flujo ligero se caracteriza por apenas manchar la toalla sanitaria o el protector, mientras que un flujo moderado implica cambios regulares cada pocas horas. Un flujo abundante, en cambio, requiere cambios más frecuentes y puede interferir con las actividades diarias. Además del volumen, el flujo puede variar en color y textura a lo largo del ciclo, desde rojo brillante al inicio hasta un tono más oscuro hacia el final. Conocer estas características ayuda a identificar patrones normales y detectar posibles alteraciones que requieran atención médica.",
+  "imagen": "/imagenesLecciones/Flujo menstrual y variaciones.png"
+},
+{
+  "_id": {
+    "$oid": "68bbac11410f6c5df5ec92f1"
+  },
+  "titulo": "Síntomas normales",
+  "categoria": "Conceptos básicos",
+  "resumen": "Qué es considerado normal durante la menstruación.",
+  "contenido": "Dolor leve, hinchazón, cambios de humor y sensibilidad en los senos son síntomas comunes durante la menstruación. Además, algunas personas pueden experimentar fatiga, calambres abdominales, dolor de espalda y dolor de cabeza. Estos síntomas son causados por los cambios hormonales que ocurren durante el ciclo menstrual, especialmente por la fluctuación de estrógeno y progesterona. Aunque suelen ser temporales, pueden afectar la comodidad y el bienestar diario, por lo que se recomienda descansar, mantener una alimentación equilibrada, hidratarse adecuadamente y realizar ejercicios suaves para aliviar las molestias.",
+  "imagen": "/imagenesLecciones/Síntomas normales.png"
+},
+{
+  "_id": {
+    "$oid": "68bbac31410f6c5df5ec92f3"
+  },
+  "titulo": "Signos de alerta",
+  "categoria": "Conceptos básicos",
+  "resumen": "Cuándo acudir al médico durante la menstruación.",
+  "contenido": "Flujo excesivo, dolor intenso, ausencia de menstruación prolongada o sangrado irregular pueden ser señales de que algo no está funcionando correctamente en el sistema reproductivo y podrían indicar problemas de salud, como desequilibrios hormonales, quistes ováricos, endometriosis o trastornos de la tiroides. También factores como el estrés, cambios bruscos de peso, enfermedades crónicas o ciertos medicamentos pueden afectar el ciclo menstrual. Es importante prestar atención a estas señales y acudir a un profesional de la salud para recibir orientación y diagnóstico adecuado, ya que un seguimiento temprano permite prevenir complicaciones y mantener la salud reproductiva.",
+  "imagen": "/imagenesLecciones/Signos de alerta.png"
+},
+{
+  "_id": {
+    "$oid": "68bbac44410f6c5df5ec92f5"
+  },
+  "titulo": "Importancia de la educación menstrual",
+  "categoria": "Conceptos básicos",
+  "resumen": "Por qué es importante aprender sobre la menstruación.",
+  "contenido": "Conocer cómo funciona el ciclo menstrual ayuda a identificar cambios o irregularidades que podrían indicar problemas de salud y, a su vez, permite mejorar el autocuidado. Entender las fases del ciclo, los síntomas normales y las señales de alerta facilita tomar decisiones informadas sobre la higiene, la alimentación, la actividad física y la gestión del estrés durante cada etapa del ciclo. Además, este conocimiento promueve una actitud positiva hacia la menstruación, reduce tabúes y empodera a las personas para cuidar su salud reproductiva de manera consciente y responsable.",
+  "imagen": "/imagenesLecciones/Importancia de la educación menstrual.png"
+},
+{
+  "_id": {
+    "$oid": "68bbac5c410f6c5df5ec92f7"
+  },
+  "titulo": "Variaciones normales entre personas",
+  "categoria": "Conceptos básicos",
+  "resumen": "Cada persona puede tener experiencias diferentes.",
+  "contenido": "La duración, intensidad y síntomas del ciclo menstrual pueden variar significativamente entre individuos y a lo largo de la vida. Factores como la genética, la alimentación, el nivel de actividad física, el estrés, los cambios hormonales y la salud general influyen en cómo se experimenta la menstruación. Por ejemplo, los ciclos pueden ser más cortos o largos, el flujo más ligero o abundante, y los síntomas, como los cólicos o los cambios de humor, pueden ser más o menos intensos según la persona y la edad. Comprender estas variaciones ayuda a reconocer qué es normal para cada cuerpo y a identificar posibles irregularidades que podrían requerir atención médica.",
+  "imagen": "/imagenesLecciones/Variaciones normales entre personas.png"
+},
+{
+  "_id": {
+    "$oid": "68bbaccd410f6c5df5ec92f9"
+  },
+  "titulo": "Cambiar toallas sanitarias cada 4-6 horas",
+  "categoria": "Autocuidado",
+  "resumen": "Importancia de mantener la higiene durante el ciclo.",
+  "contenido": "Es recomendable cambiar las toallas sanitarias cada 4 a 6 horas para prevenir infecciones, malos olores y mantener la zona íntima limpia y saludable. Además, se sugiere lavar las manos antes y después de manipular los productos de higiene, elegir materiales transpirables y cómodos, y alternar entre distintos tipos de protección menstrual según la necesidad. Mantener una buena higiene durante la menstruación ayuda a reducir riesgos de irritaciones, infecciones y promueve el bienestar general durante todo el ciclo.",
+  "imagen": "/imagenesLecciones/Cambiar toallas sanitarias cada 4-6 horas.png"
+},
+{
+  "_id": {
+    "$oid": "68bbacda410f6c5df5ec92fb"
+  },
+  "titulo": "Uso adecuado de tampones o copas",
+  "categoria": "Autocuidado",
+  "resumen": "Higiene al usar productos menstruales internos.",
+  "contenido": "Los tampones y copas menstruales deben usarse siguiendo cuidadosamente las instrucciones del fabricante para garantizar comodidad y seguridad. Es fundamental lavarse las manos antes y después de manipularlos para prevenir infecciones. Además, se recomienda cambiar los tampones cada 4 a 8 horas y vaciar o limpiar la copa menstrual según las indicaciones. Elegir el tamaño y absorción adecuados, así como mantener una correcta higiene, ayuda a evitar irritaciones, infecciones y a disfrutar de una menstruación más cómoda y saludable.",
+  "imagen": "/imagenesLecciones/Uso adecuado de tampones o copas.png"
+},
+{
+  "_id": {
+    "$oid": "68bbace8410f6c5df5ec92ff"
+  },
+  "titulo": "Duchas regulares, evitando jabones perfumados",
+  "categoria": "Autocuidado",
+  "resumen": "Cuidado de la zona íntima durante la menstruación.",
+  "contenido": "Las duchas regulares son recomendables durante la menstruación para mantener la zona íntima limpia y fresca. Sin embargo, se deben evitar jabones muy perfumados, geles agresivos o productos con químicos fuertes, ya que pueden alterar el equilibrio natural de la flora vaginal y causar irritación o molestias. Es preferible utilizar agua tibia y productos suaves, específicos para la higiene íntima, y secar bien la zona después del baño. Mantener estas prácticas ayuda a prevenir infecciones, reduce la incomodidad y contribuye a una experiencia menstrual más saludable.Además, mantener las uñas limpias y evitar tocar otras superficies mientras se cambian estos productos ayuda a proteger la salud íntima.",
+  "imagen": "/imagenesLecciones/Duchas regulares, evitando jabones perfumados.png"
+},
+{
+  "_id": {
+    "$oid": "68bbacef410f6c5df5ec9301"
+  },
+  "titulo": "Ropa interior de algodón y ropa cómoda",
+  "categoria": "Autocuidado",
+  "resumen": "Elegir ropa adecuada durante la menstruación.",
+  "contenido": "Usar ropa interior de algodón y prendas cómodas durante la menstruación ayuda a mantener la zona íntima seca, favorece la ventilación y reduce la acumulación de humedad que puede provocar irritaciones o infecciones. Además, optar por ropa holgada y transpirable disminuye la presión sobre el abdomen y la pelvis, lo que puede aliviar molestias como los cólicos o la hinchazón. Mantener una vestimenta adecuada contribuye al bienestar general, permite mayor libertad de movimiento y mejora la comodidad durante los días de sangrado.",
+  "imagen": "/imagenesLecciones/Ropa interior de algodón y ropa cómoda.png"
+},
+{
+  "_id": {
+    "$oid": "68bbad04410f6c5df5ec9307"
+  },
+  "titulo": "Dormir 7-9 horas",
+  "categoria": "Autocuidado",
+  "resumen": "Importancia del descanso en el ciclo menstrual.",
+  "contenido": "Dormir entre 7 y 9 horas cada noche favorece el bienestar físico y emocional durante la menstruación. Un buen descanso ayuda a reducir la fatiga, mejorar el estado de ánimo y disminuir la percepción del dolor, incluidos los cólicos menstruales. Además, dormir lo suficiente contribuye a regular las hormonas del cuerpo, lo que puede favorecer la estabilidad del ciclo menstrual y mejorar la concentración y la energía durante el día. Mantener hábitos de sueño saludables es una estrategia clave para sentirse más cómoda y equilibrada durante todo el periodo menstrual.",
+  "imagen": "/imagenesLecciones/Dormir 7-9 horas.png"
+},
+{
+  "_id": {
+    "$oid": "68bbad0b410f6c5df5ec9309"
+  },
+  "titulo": "Mantener hidratación adecuada",
+  "categoria": "Autocuidado",
+  "resumen": "Alimentos y bebidas que pueden afectar el ciclo.",
+  "contenido": "Reducir el consumo de cafeína y alcohol durante la menstruación puede ayudar a disminuir molestias como la hinchazón, la sensibilidad en los senos y los cambios de humor, además de favorecer un mejor descanso nocturno. La cafeína puede aumentar la retención de líquidos y la tensión muscular, mientras que el alcohol puede alterar los patrones de sueño y aumentar la fatiga. Optar por bebidas saludables, como agua, infusiones o jugos naturales, contribuye a mantener la hidratación, mejorar el bienestar general y reducir los síntomas asociados al ciclo menstrual.",
+  "imagen": "/imagenesLecciones/Mantener hidratación adecuada.png"
+},
+{
+  "_id": {
+    "$oid": "68bbad12410f6c5df5ec930b"
+  },
+  "titulo": "Uso de analgésicos bajo recomendación médica",
+  "categoria": "Autocuidado",
+  "resumen": "Control del dolor menstrual.",
+  "contenido": "Si se experimenta dolor intenso durante la menstruación, como cólicos fuertes o molestias abdominales persistentes, se pueden usar analgésicos, pero siempre siguiendo la recomendación de un profesional de la salud. Es importante no automedicarse, ya que cada persona puede reaccionar de manera diferente a los medicamentos y algunos pueden tener efectos secundarios o interactuar con otros tratamientos. Además, un profesional puede orientar sobre la dosis adecuada, la frecuencia y otras estrategias complementarias, como calor local, ejercicios suaves o cambios en la alimentación, para aliviar el dolor de manera segura y efectiva.",
+  "imagen": "/imagenesLecciones/Uso de analgésicos bajo recomendación médica.png"
+},
+{
+  "_id": {
+    "$oid": "68bbad19410f6c5df5ec930d"
+  },
+  "titulo": "Aplicar calor local para aliviar cólicos",
+  "categoria": "Autocuidado",
+  "resumen": "Método natural para aliviar molestias.",
+  "contenido": "Aplicar una bolsa de agua caliente, una manta eléctrica o compresas tibias en el abdomen puede ayudar a reducir el dolor menstrual al relajar los músculos del útero y mejorar la circulación sanguínea en la zona. Esta técnica, combinada con ejercicios suaves, descanso adecuado y una buena hidratación, puede disminuir la intensidad de los cólicos y mejorar el bienestar general durante la menstruación. Además, el calor proporciona una sensación de confort y ayuda a aliviar la tensión abdominal, haciendo que el periodo sea más llevadero y cómodo.",
+  "imagen": "/imagenesLecciones/Aplicar calor local para aliviar cólicos.png"
+},
+{
+  "_id": {
+    "$oid": "68bbad20410f6c5df5ec930f"
+  },
+  "titulo": "Registrar síntomas del ciclo",
+  "categoria": "Autocuidado",
+  "resumen": "Monitoreo para identificar cambios o problemas.",
+  "contenido": "Registrar los síntomas durante el ciclo menstrual, como el flujo, la duración, los cólicos, los cambios de humor o la intensidad del dolor, ayuda a identificar patrones y variaciones normales de cada ciclo. Este seguimiento permite detectar cambios inusuales o posibles problemas de salud, como ciclos irregulares, sangrado excesivo o ausencia de menstruación, y facilita brindar información precisa a un profesional de la salud si es necesario. Llevar un registro también ayuda a anticipar síntomas, planificar actividades y mejorar el autocuidado, promoviendo una relación más consciente y saludable con el propio cuerpo durante todo el ciclo menstrual.",
+  "imagen": "/imagenesLecciones/Registrar síntomas del ciclo.png"
+},
+{
+  "_id": {
+    "$oid": "68bbad4e410f6c5df5ec9311"
+  },
+  "titulo": "Alimentación rica en frutas y verduras",
+  "categoria": "Salud",
+  "resumen": "Reduce inflamación y malestar menstrual.",
+  "contenido": "Consumir frutas y verduras durante la menstruación ayuda a disminuir la inflamación, mejorar la digestión y mantener el equilibrio de nutrientes esenciales en el cuerpo. Alimentos ricos en fibra, vitaminas y minerales pueden reducir la retención de líquidos, aliviar la hinchazón y contribuir a un mejor estado de ánimo. Además, llevar una dieta equilibrada con frutas y verduras favorece la energía, refuerza el sistema inmunológico y apoya el bienestar general durante todo el ciclo menstrual, haciendo que los días de sangrado sean más cómodos y saludables.",
+  "imagen": "/imagenesLecciones/Alimentación rica en frutas y verduras.png"
+},
+{
+  "_id": {
+    "$oid": "68bbad69410f6c5df5ec9319"
+  },
+  "titulo": "Mantener salud emocional con técnicas de respiración o meditación",
+  "categoria": "Salud",
+  "resumen": "Cuidar el bienestar mental durante el ciclo.",
+  "contenido": "Prácticas como la meditación, la respiración profunda o el mindfulness pueden ser muy útiles para manejar los cambios de ánimo durante la menstruación. Estas técnicas ayudan a reducir el estrés, la ansiedad y la irritabilidad que a veces acompañan al ciclo menstrual, favoreciendo la relajación y la sensación de bienestar. Además, practicar mindfulness permite prestar atención a las señales del cuerpo y regular las emociones, lo que contribuye a un mejor manejo del dolor y la fatiga. Incorporar estas prácticas regularmente durante el periodo menstrual puede mejorar tanto el bienestar emocional como la calidad de vida general.",
+  "imagen": "/imagenesLecciones/Mantener salud emocional con técnicas de respiración o meditación.png"
+},
+{
+  "_id": {
+    "$oid": "68bbad76410f6c5df5ec931d"
+  },
+  "titulo": "Suplementos recomendados solo bajo supervisión médica",
+  "categoria": "Salud",
+  "resumen": "Uso seguro de vitaminas o minerales.",
+  "contenido": "Tomar suplementos durante la menstruación o en general debe hacerse únicamente bajo indicación de un profesional de la salud, para prevenir deficiencias nutricionales sin exceder la ingesta de ciertos nutrientes. El exceso de vitaminas o minerales puede causar efectos adversos, mientras que la falta de algunos, como hierro, calcio o magnesio, puede contribuir a la fatiga, debilidad o calambres. Un especialista puede recomendar la dosis adecuada según las necesidades individuales y evaluar si es más beneficioso obtener los nutrientes a través de la alimentación balanceada o mediante suplementos específicos, garantizando así un enfoque seguro y saludable para el bienestar general y la salud menstrual.",
+  "imagen": "/imagenesLecciones/Suplementos recomendados solo bajo supervisión médica.png"
+},
+{
+  "_id": {
+    "$oid": "68bbad7d410f6c5df5ec931f"
+  },
+  "titulo": "Reconocer síntomas del síndrome premenstrual (SPM)",
+  "categoria": "Salud",
+  "resumen": "Identificar señales físicas y emocionales antes de la menstruación.",
+  "contenido": "El síndrome premenstrual (SPM) puede incluir una variedad de síntomas físicos y emocionales, como cambios de humor, irritabilidad, hinchazón abdominal, dolor de cabeza, sensibilidad en los senos, fatiga y antojos alimenticios. Reconocer estos signos es fundamental para anticipar los síntomas y tomar medidas que ayuden a manejarlos, como descansar adecuadamente, mantener una alimentación equilibrada, hidratarse, realizar ejercicios suaves y practicar técnicas de relajación. Llevar un registro del SPM permite identificar patrones en cada ciclo menstrual y facilita la comunicación con profesionales de la salud para recibir orientación personalizada y mejorar el bienestar general.",
+  "imagen": "/imagenesLecciones/Reconocer síntomas del síndrome premenstrual (SPM).png"
+},
+{
+  "_id": {
+    "$oid": "68bbad83410f6c5df5ec9321"
+  },
+  "titulo": "Identificar signos de dismenorrea o amenorrea",
+  "categoria": "Salud",
+  "resumen": "Detectar problemas de salud relacionados con la menstruación.",
+  "contenido": "El dolor menstrual intenso, conocido como dismenorrea, o la ausencia prolongada de menstruación, llamada amenorrea, son señales importantes de que se debe acudir al médico. Estos síntomas pueden indicar desequilibrios hormonales, problemas en los ovarios o el útero, estrés excesivo u otras condiciones de salud que requieren atención profesional. Consultar a un especialista permite recibir un diagnóstico adecuado, acceder a tratamientos efectivos y prevenir complicaciones futuras. Reconocer estas señales y actuar a tiempo es fundamental para mantener la salud reproductiva y el bienestar general durante el ciclo menstrual.",
+  "imagen": "/imagenesLecciones/Identificar signos de dismenorrea o amenorrea.png"
+},
+{
+  "_id": {
+    "$oid": "68bbad99410f6c5df5ec9325"
+  },
+  "titulo": "Acudir al médico ante sangrado irregular o dolor intenso",
+  "categoria": "Salud",
+  "resumen": "Buscar ayuda profesional ante anomalías.",
+  "contenido": "Si el ciclo menstrual presenta irregularidades, sangrado excesivo, dolor severo o ausencia prolongada de menstruación, es fundamental consultar a un especialista en salud reproductiva. Estas señales pueden indicar desequilibrios hormonales, problemas en los ovarios o el útero, estrés elevado u otras condiciones que requieren evaluación médica. Acudir a un profesional permite recibir un diagnóstico adecuado, acceder a tratamientos efectivos y prevenir posibles complicaciones a largo plazo. Estar atenta a estas señales contribuye a cuidar la salud menstrual y mantener el bienestar general durante todo el ciclo.",
+  "imagen": "/imagenesLecciones/Acudir al médico ante sangrado irregular o dolor intenso.png"
+},
+{
+  "_id": {
+    "$oid": "68bbada6410f6c5df5ec9329"
+  },
+  "titulo": "Uso de productos sostenibles",
+  "categoria": "Salud",
+  "resumen": "Opciones ecológicas y seguras para la menstruación.",
+  "contenido": "Utilizar copas menstruales, toallas ecológicas o productos reutilizables contribuye tanto a la higiene personal como al cuidado del medio ambiente. Estos productos suelen estar hechos de materiales seguros para el cuerpo y ayudan a reducir el contacto con químicos presentes en algunos productos desechables, disminuyendo el riesgo de irritaciones. Además, al ser reutilizables, generan menos residuos y ayudan a disminuir la contaminación ambiental. Adoptar este tipo de alternativas promueve prácticas más sostenibles, económicas y responsables, al mismo tiempo que mantiene una correcta higiene durante la menstruación.",
+  "imagen": "/imagenesLecciones/Uso de productos sostenibles.png"
+},
+{
+  "_id": {
+    "$oid": "68bc88811868a2e5a7f4134b"
+  },
+  "titulo": "Miomas endometriales y quistes",
+  "categoria": "Salud",
+  "resumen": "Biomas endometriales - quistes",
+  "contenido": "El endometrio es la capa interna del útero que se engrosa durante el ciclo menstrual para preparar un posible embarazo. Cuando no ocurre la fecundación, este tejido se desprende causando la menstruación. En algunas personas, el endometrio puede desarrollar estructuras anormales, como quistes endometriales o pólipos, que pueden causar dolor, sangrado irregular o infertilidad. Los quistes son sacos llenos de líquido que se forman en los ovarios o el endometrio y generalmente son benignos, aunque en algunos casos requieren evaluación médica. Conocer cómo funciona el endometrio y estar atenta a los síntomas ayuda a detectar posibles problemas de salud a tiempo y mantener un ciclo menstrual saludable.",
+  "imagen": "/imagenesLecciones/Variaciones normales entre personas.png"
+}]

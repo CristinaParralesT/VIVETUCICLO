@@ -35,7 +35,7 @@ const LessonCard = ({ lesson, onVerMas }) => {
       {/* Imagen debajo de la categoría */}
       {lesson.imagen && (
         <img
-          src={lesson.imagen} // por ejemplo "/imagenesLecciones/Qué es la menstruación.png"
+          src={lesson.imagen} 
           alt={lesson.titulo}
           style={{
             width: "90px",
