@@ -19,9 +19,9 @@ const lessonSchema = new mongoose.Schema({
 
 const Lesson = mongoose.model("Lesson", lessonSchema);
 
-// Conectar MongoDB Atlas
+// Conectar MongoDB Atlas usando variable de entorno
 mongoose.connect(
-  "mongodb+srv://parralescristina3_db_user:3iartxI98kD2Rrng@vivecicluster.mongodb.net/viveTuCiclo?retryWrites=true&w=majority",
+  process.env.MONGODB_URI,
   {
     useNewUrlParser: true,
     useUnifiedTopology: true
@@ -32,23 +32,28 @@ mongoose.connect(
 
   // Leer JSON y subir lecciones automáticamente
   const lessonsPath = path.join(__dirname, "edumenstruacion.lessons.json");
-  const lessonsData = JSON.parse(fs.readFileSync(lessonsPath, "utf-8"));
+  
+  // Verificar que el archivo exista
+  if (fs.existsSync(lessonsPath)) {
+    const lessonsData = JSON.parse(fs.readFileSync(lessonsPath, "utf-8"));
 
-  // Verificar si la colección está vacía para no duplicar
-  Lesson.countDocuments({}, (err, count) => {
-    if (err) {
-      console.log(err);
-    } else if (count === 0) {
-      Lesson.insertMany(lessonsData)
-        .then(() => console.log("Todas las lecciones se subieron a MongoDB Atlas"))
-        .catch(err => console.log(err));
-    } else {
-      console.log("La colección ya tiene lecciones, no se insertaron duplicados");
-    }
-  });
-
+    // Verificar si la colección está vacía para no duplicar
+    Lesson.countDocuments({}, (err, count) => {
+      if (err) {
+        console.log(err);
+      } else if (count === 0) {
+        Lesson.insertMany(lessonsData)
+          .then(() => console.log("Todas las lecciones se subieron a MongoDB Atlas"))
+          .catch(err => console.log(err));
+      } else {
+        console.log("La colección ya tiene lecciones, no se insertaron duplicados");
+      }
+    });
+  } else {
+    console.log("No se encontró el archivo edumenstruacion.lessons.json");
+  }
 })
-.catch((err) => console.log(err));
+.catch(err => console.log("Error conectando a MongoDB Atlas:", err));
 
 // Rutas CRUD
 app.get("/lessons", async (req, res) => {
