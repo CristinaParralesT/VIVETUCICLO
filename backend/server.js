@@ -2,10 +2,22 @@ const express = require("express");
 const mongoose = require("mongoose");
 const cors = require("cors");
 const fs = require("fs"); // Para leer el archivo JSON
+const path = require("path");
 
 const app = express();
 app.use(cors());
 app.use(express.json());
+
+// Esquema de lección
+const lessonSchema = new mongoose.Schema({
+  titulo: String,
+  categoria: String,
+  resumen: String,
+  contenido: String,
+  imagen: String
+});
+
+const Lesson = mongoose.model("Lesson", lessonSchema);
 
 // Conectar MongoDB Atlas
 mongoose.connect(
@@ -19,8 +31,9 @@ mongoose.connect(
   console.log("MongoDB Atlas conectado");
 
   // Leer JSON y subir lecciones automáticamente
-  const lessonsData = JSON.parse(fs.readFileSync("edumenstruacion.lessons.json", "utf-8"));
-  
+  const lessonsPath = path.join(__dirname, "edumenstruacion.lessons.json");
+  const lessonsData = JSON.parse(fs.readFileSync(lessonsPath, "utf-8"));
+
   // Verificar si la colección está vacía para no duplicar
   Lesson.countDocuments({}, (err, count) => {
     if (err) {
@@ -36,17 +49,6 @@ mongoose.connect(
 
 })
 .catch((err) => console.log(err));
-
-// Esquema de lección
-const lessonSchema = new mongoose.Schema({
-  titulo: String,
-  categoria: String,
-  resumen: String,
-  contenido: String,
-  imagen: String
-});
-
-const Lesson = mongoose.model("Lesson", lessonSchema);
 
 // Rutas CRUD
 app.get("/lessons", async (req, res) => {
