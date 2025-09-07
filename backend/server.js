@@ -1,8 +1,10 @@
+// server.js
 const express = require("express");
 const mongoose = require("mongoose");
 const cors = require("cors");
 const fs = require("fs"); // Para leer el archivo JSON
 const path = require("path");
+require("dotenv").config(); // Para usar variables de entorno
 
 const app = express();
 app.use(cors());
@@ -27,31 +29,30 @@ mongoose.connect(
     useUnifiedTopology: true
   }
 )
-.then(() => {
+.then(async () => {
   console.log("MongoDB Atlas conectado");
 
   // Leer JSON y subir lecciones automáticamente
   const lessonsPath = path.join(__dirname, "edumenstruacion.lessons.json");
-  
-  // Verificar que el archivo exista
+
   if (fs.existsSync(lessonsPath)) {
     const lessonsData = JSON.parse(fs.readFileSync(lessonsPath, "utf-8"));
 
-    // Verificar si la colección está vacía para no duplicar
-    Lesson.countDocuments({}, (err, count) => {
-      if (err) {
-        console.log(err);
-      } else if (count === 0) {
-        Lesson.insertMany(lessonsData)
-          .then(() => console.log("Todas las lecciones se subieron a MongoDB Atlas"))
-          .catch(err => console.log(err));
+    try {
+      const count = await Lesson.countDocuments({});
+      if (count === 0) {
+        await Lesson.insertMany(lessonsData);
+        console.log("Todas las lecciones se subieron a MongoDB Atlas");
       } else {
         console.log("La colección ya tiene lecciones, no se insertaron duplicados");
       }
-    });
+    } catch (err) {
+      console.log("Error al contar o insertar lecciones:", err);
+    }
   } else {
     console.log("No se encontró el archivo edumenstruacion.lessons.json");
   }
+
 })
 .catch(err => console.log("Error conectando a MongoDB Atlas:", err));
 
